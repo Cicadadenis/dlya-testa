@@ -1,0 +1,8 @@
+requests
+my_fake_useragent
+pyqiwip2p
+telethon
+python3-pip
+screen
+aiogram
+db-sqlite3
